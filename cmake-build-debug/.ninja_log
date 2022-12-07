@@ -1,0 +1,15 @@
+# ninja log v5
+1	134	6920749125208864	build.ninja	2146e7e29eb6c0ba
+620	1993	6920743005987802	CMakeFiles/SudokuSolver.dir/src/square.c.obj	2ad1480bf85b49f3
+0	98	6917975988694025	CMakeFiles/SudokuSolver.dir/puzzle.c.obj	41fa6bf2e199c6b6
+0	104	6917971298490724	CMakeFiles/SudokuSolver.dir/main.c.obj	fd928b2b4f72bc23
+0	1331	6920742999369308	CMakeFiles/SudokuSolver.dir/src/sudoku.c.obj	d7981a59ad429f61
+1747	4047	6920744268869061	SudokuSolver.exe	98fe2e74315cf0e1
+0	1747	6920744245891221	CMakeFiles/SudokuSolver.dir/src/puzzle.c.obj	529aec533f27405e
+0	2542	6920770685710507	CMakeFiles/SudokuSolver.dir/src/puzzle.c.obj	529aec533f27405e
+631	2582	6920770694780224	CMakeFiles/SudokuSolver.dir/src/square.c.obj	2ad1480bf85b49f3
+1272	3221	6920770701180672	CMakeFiles/SudokuSolver.dir/src/sudoku.c.obj	d7981a59ad429f61
+1896	3259	6920770701560629	CMakeFiles/SudokuSolver.dir/src/box.c.obj	67d9dab2d45fdd27
+3259	5910	6920770728039809	SudokuSolver.exe	6cb062198a089f84
+1	1329	6920787523707842	CMakeFiles/SudokuSolver.dir/src/sudoku.c.obj	d7981a59ad429f61
+1329	3323	6920787543605302	SudokuSolver.exe	6cb062198a089f84
