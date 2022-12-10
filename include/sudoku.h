@@ -43,6 +43,10 @@ int checkPuzzle(Square *** sudoku, Box ** boxes);
 int solveSquare(Square * square);
 
 //Box Functions
+int boxSingles(Square ***squares, Box **boxes);
 Box ** createBoxes();
 int updateBoxes(Square *** sudoku, int row, int column);
+
+//Row functions
+int checkRows(Square *** sudoku, Box ** boxes);
 #endif
