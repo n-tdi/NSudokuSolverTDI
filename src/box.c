@@ -18,7 +18,7 @@ int boxSingles(Square *** sudoku, Box ** boxes) {
                     continue;
                 }
 
-                if (boxes[x]->squares[x]->possible[j] == 0) {
+                if (boxes[i]->squares[x]->possible[j] == 0) {
                     count++;
                     temp = x;
                 }
@@ -29,7 +29,7 @@ int boxSingles(Square *** sudoku, Box ** boxes) {
             }
 
             if (count == 1) {
-                boxes[i]->squares[temp]->number = j++;
+                boxes[i]->squares[temp]->number = j + 1;
                 UNSOLVED--;
                 boxes[i]->squares[temp]->solvable = 0;
 
