@@ -3,6 +3,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <unistd.h>
 
 extern int UNSOLVED;
 extern int SIZE_ROWS;

@@ -26,5 +26,6 @@ int main() {
 
     printPuzzle(sudoku->squares);
 
+    getchar();
     return 0;
 }
